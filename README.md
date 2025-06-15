@@ -1,4 +1,4 @@
-Today I have practiced JWT Authentication to manage sessions using user management system. I have still not connected to any external data or used mvc pattern to keep it as simple as possible. I want to practice one thing at a time.
+Today I have practiced JWT Authentication to manage sessions using user management system. I have still not connected to any external database or used mvc pattern to keep it as simple as possible. I want to practice one thing at a time.
 I will show you what I have implemented. Here are the routes used....................
 
 1). To get all the users-
